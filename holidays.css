@@ -1,0 +1,209 @@
+body{
+    background-color: wheat;
+}
+
+
+.holidays
+{
+    height: 510px;
+    width: 100%;
+    border: 2px solid transparent;
+    background-color: wheat;
+}
+
+.holi
+{
+    height: 350px;
+    width: 50%;
+    border: 2px solid transparent;
+    position: absolute;
+    z-index: 1;
+    margin-top: 20px;
+    margin-left: 330px;
+    background-color: white;
+}
+
+.holi img
+{
+    height: 350px;
+    width: 100%;
+}
+
+.days
+{
+    height: 155px;
+    width: 45%;
+    border: 2px solid transparent;
+    background-color: white;
+     position: relative;
+     z-index: 1;
+     margin-left: 370px;
+     margin-top: 290px;
+}
+
+.days h1,h4,p{
+    text-align: center;
+}
+
+.division
+{
+    height: 490px;
+    width: 100%;
+    border: 2px solid transparent;
+    background-color: wheat;
+}
+
+.divi
+{
+    height: 350px;
+    width: 50%;
+    border: 2px solid transparent;
+    position: absolute;
+    z-index: 1;
+    margin-top: 20px;
+    margin-left: 330px;
+    background-color: white;
+}
+
+.divi img
+{
+    height: 350px;
+    width: 100%;
+}
+
+.div
+{
+    height: 155px;
+    width: 45%;
+    border: 2px solid transparent;
+    background-color: white;
+     position: relative;
+     z-index: 1;
+     margin-left: 370px;
+     margin-top: 290px;
+     background-color: white;
+}
+
+.div h1,h4,p{
+    text-align: center;
+}
+
+.webpage
+{
+    height: 490px;
+    width: 100%;
+    border: 2px solid transparent;
+    background-color: wheat;
+    
+}
+
+.web
+{
+    height: 350px;
+    width: 50%;
+    border: 2px solid transparent;
+    position: absolute;
+    z-index: 1;
+    margin-top: 20px;
+    margin-left: 330px;
+    background-color: white;
+}
+
+.web img
+{
+    height: 350px;
+    width: 100%;
+}
+
+.page
+{
+    height: 155px;
+    width: 45%;
+    border: 2px solid transparent;
+    background-color: white;
+     position: relative;
+     z-index: 1;
+     margin-left: 370px;
+     margin-top: 290px;
+}
+
+.page h1,h4,p{
+    text-align: center;
+}
+
+
+.foodhub
+{
+    height: 490px;
+    width: 100%;
+    border: 2px solid transparent;
+    background-color: wheat;
+}
+
+.food
+{
+    height: 350px;
+    width: 50%;
+    border: 2px solid transparent;
+    position: absolute;
+    z-index: 1;
+    margin-top: 20px;
+    margin-left: 330px;
+    background-color: white;
+}
+
+.food img
+{
+    height: 350px;
+    width: 100%;
+}
+
+.hub
+{
+    height: 155px;
+    width: 45%;
+    border: 2px solid transparent;
+    background-color: white;
+     position: relative;
+     z-index: 1;
+     margin-left: 370px;
+     margin-top: 290px;
+     background-color: white;
+}
+
+.hub h1,h4,p{
+    text-align: center;
+}
+
+.thefinish
+{
+    height: 80px;
+    width: 100%;
+    border: 2px solid transparent;
+}
+
+/* .finish
+{
+    height: 75px;
+    width: 100%;
+    border: 2px solid green;
+
+} */
+
+.finish button
+{
+    height: 40px;
+    width: 30%;
+    border-radius: 10px;
+   border: 2px solid grey;
+   margin-left: 400px;
+   margin-top: 15px;
+   font-size: 18px;
+}
+
+.finish button:hover{
+    transform: scale(0.9);
+    color: white;
+    background-color: rgb(163, 163, 33);
+    border: 2px solid transparent;
+}

@@ -1,0 +1,212 @@
+body{
+    background-color: wheat;
+}
+
+
+.salmonfish
+{
+    height: 510px;
+    width: 100%;
+    border: 2px solid transparent;
+}
+
+.salmon
+{
+    height: 350px;
+    width: 50%;
+    border: 2px solid transparent;
+    position: absolute;
+    z-index: 1;
+    margin-top: 20px;
+    margin-left: 330px;
+}
+
+.salmon img
+{
+    height: 350px;
+    width: 100%;
+}
+
+.fish
+{
+    height: 155px;
+    width: 45%;
+    border: 2px solid white;
+    background-color: white;
+     position: relative;
+     z-index: 1;
+     margin-left: 370px;
+     margin-top: 290px;
+}
+
+.fish h1,h4,p{
+    text-align: center;
+}
+
+.meatless
+{
+    height: 480px;
+    width: 100%;
+    border: 2px solid transparent;
+}
+
+.meated
+{
+    height: 350px;
+    width: 50%;
+    border: 2px solid transparent;
+    position: absolute;
+    z-index: 1;
+    margin-top: 20px;
+    margin-left: 330px;
+}
+
+.meated img
+{
+    height: 350px;
+    width: 100%;
+}
+
+.meat
+{
+    height: 155px;
+    width: 45%;
+    border: 2px solid transparent;
+    background-color: white;
+     position: relative;
+     z-index: 1;
+     margin-left: 370px;
+     margin-top: 290px;
+}
+
+.meat h1,h4,p{
+    text-align: center;
+}
+
+.sirisrinivas
+{
+    height: 510px;
+    width: 100%;
+    border: 2px solid transparent;
+}
+
+.siri
+{
+    height: 350px;
+    width: 50%;
+    border: 2px solid transparent;
+    position: absolute;
+    z-index: 1;
+    margin-top: 20px;
+    margin-left: 330px;
+}
+
+.siri img
+{
+    height: 350px;
+    width: 100%;
+}
+
+.sirinivas
+{
+    height: 155px;
+    width: 45%;
+    border: 2px solid transparent;
+    background-color: white;
+     position: relative;
+     z-index: 1;
+     margin-left: 370px;
+     margin-top: 290px;
+}
+
+.sirinivas h1,h4,p{
+    text-align: center;
+}
+
+.bujji
+{
+    height: 510px;
+    width: 100%;
+    border: 2px solid transparent;
+}
+
+.iri
+{
+    height: 350px;
+    width: 50%;
+    border: 2px solid transparent;
+    position: absolute;
+    z-index: 1;
+    margin-top: 20px;
+    margin-left: 330px;
+}
+
+.iri img
+{
+    height: 350px;
+    width: 100%;
+}
+
+.tapasvi
+{
+    height: 155px;
+    width: 45%;
+    border: 2px solid transparent;
+    background-color: white;
+     position: relative;
+     z-index: 1;
+     margin-left: 370px;
+     margin-top: 290px;
+}
+
+.tapasvi h1,h4,p{
+    text-align: center;
+}
+
+.back
+{
+    height: 60px;
+    width: 100%;
+    border: 2px solid transparent;
+    margin-top: 5px;
+
+}
+
+
+.bac button{
+    height: 40px;
+    width: 200px;
+    border-radius: 20px;
+    margin-left: 500px;
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+.bac button:hover {
+    transform: scale(0.9);
+    color: white;
+    background-color: rgb(163, 163, 33);
+    border: 2px solid transparent;  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

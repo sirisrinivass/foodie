@@ -1,0 +1,204 @@
+body{
+    background-color: wheat;
+}
+
+
+.healthy
+{
+    height: 500px;
+    width: 100%;
+    border: 2px solid transparent;
+   
+}
+
+.health
+{
+    height: 350px;
+    width: 50%;
+    border: 2px solid transparent;
+    position: absolute;
+    z-index: 1;
+    margin-top: 10px;
+    margin-left: 330px;
+    background-color: white;
+}
+
+.health img
+{
+    height: 350px;
+    width: 100%;
+}
+
+.diet
+{
+    height: 155px;
+    width: 45%;
+    border: 2px solid transparent;
+    background-color: white;
+     position: relative;
+     z-index: 1;
+     margin-left: 370px;
+     margin-top: 290px;
+    
+}
+
+.diet h1,h4,p{
+    text-align: center;
+}
+
+
+.medicines
+{
+    height: 490px;
+    width: 100%;
+    border: 2px solid transparent;
+    background-color: wheat;
+}
+
+.medicine
+{
+    height: 350px;
+    width: 50%;
+    border: 2px solid transparent;
+    position: absolute;
+    z-index: 1;
+    margin-top: 20px;
+    margin-left: 330px;
+    background-color: white;
+}
+
+.medicine img
+{
+    height: 350px;
+    width: 100%;
+}
+
+.medical
+{
+    height: 155px;
+    width: 45%;
+    border: 2px solid transparent;
+    background-color: white;
+     position: relative;
+     z-index: 1;
+     margin-left: 370px;
+     margin-top: 290px;
+     background-color: white;
+}
+
+.medical h1,h4,p{
+    text-align: center;
+}
+
+
+.oranges
+{
+    height: 490px;
+    width: 100%;
+    border: 2px solid transparent;
+    background-color: wheat;
+}
+
+.orange
+{
+    height: 350px;
+    width: 50%;
+    border: 2px solid transparent;
+    position: absolute;
+    z-index: 1;
+    margin-top: 20px;
+    margin-left: 330px;
+    background-color: white;
+}
+
+.orange img
+{
+    height: 350px;
+    width: 100%;
+}
+
+.orang
+{
+    height: 155px;
+    width: 45%;
+    border: 2px solid transparent;
+    background-color: white;
+     position: relative;
+     z-index: 1;
+     margin-left: 370px;
+     margin-top: 290px;
+     background-color: white;
+}
+
+.orang h1,h4,p{
+    text-align: center;
+}
+
+
+.apples
+{
+    height: 490px;
+    width: 100%;
+    border: 2px solid transparent;
+    background-color: wheat;
+}
+
+.apple
+{
+    height: 350px;
+    width: 50%;
+    border: 2px solid transparent;
+    position: absolute;
+    z-index: 1;
+    margin-top: 20px;
+    margin-left: 330px;
+    background-color: white;
+}
+
+.apple img
+{
+    height: 350px;
+    width: 100%;
+}
+
+.appo
+{
+    height: 155px;
+    width: 45%;
+    border: 2px solid transparent;
+    background-color: white;
+     position: relative;
+     z-index: 1;
+     margin-left: 370px;
+     margin-top: 290px;
+     background-color: white;
+}
+
+.appo h1,h4,p{
+    text-align: center;
+}
+
+.finished
+{
+    height: 80px;
+    width: 100%;
+    border: 2px solid transparent;
+    margin-top: 2px;
+
+}
+
+.finish button{
+    height: 40px;
+    width: 200px;
+    border-radius: 20px;
+    margin-left: 500px;
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+.finish button:hover{
+    transform: scale(0.9);
+    color: white;
+    background-color: rgb(163, 163, 33);
+    border: 2px solid transparent; 
+}
